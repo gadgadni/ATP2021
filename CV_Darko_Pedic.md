@@ -139,12 +139,12 @@ Strani jezici:
 ##### DRUŠTVENE I POLITIČKE AKTIVNOSTI
 
 ```
-2019-danas   Hrvatski suverenisti [Hrvatski suverenisti] 
+2019-danas   Hrvatski suverenisti 
              - županijski povjernik
 ```
 ```
 2017-danas   Zadarska županija
-             - županijski vijećnik [Vijećnik Darko Pedić] 
+             - županijski vijećnik 
 ```            
 ```
 2014-danas   Hrast-pokret za uspješnu Hrvatsku 
@@ -171,7 +171,7 @@ Strani jezici:
              - volonter
 ```
 ```
-2006         Hrvatske svjetske igre, Zadar (2006) 
+2006         Hrvatske svjetske igre, Zadar 
              - volonter
 ```
 ```
