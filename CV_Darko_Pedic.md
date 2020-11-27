@@ -1,5 +1,9 @@
 # CV 
 
+
+![Profilna slika](img/E:\Darko\Hrast Zadar\SLIKE\DARKO.jpg)
+
+
 | Ime i prezime |     Adresa     | Poštanski broj | Mjesto |  Zemlja  |       E-mail       |
 |:-------------:|:--------------:|:--------------:|:------:|:--------:|:------------------:|
 |  Darko Pedić  | Bruna Bušića 6 |      23000     |  Zadar | Hrvatska | darko636@gmail.com |
