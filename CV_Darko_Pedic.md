@@ -48,9 +48,9 @@
 ``` 
 2003-2017       Aromatic Zadar-samoposlužni aparati za tople i hladne napitke-SERVISER
 ``` 
-``` 
-        
+
 ---
+
 ##### JEZIČNE VJEŠTINE
 
 Materinski jezik/jezici:
