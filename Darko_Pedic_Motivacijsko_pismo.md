@@ -5,6 +5,7 @@
 ##### Zemlja: Hrvatska
 ##### E-mail: darko636@gmail.com
 
+
 Poštovani,
 
 zovem se Darko Pedić. Rođen sam 6.9.1980 godine u Zadru, gdje sam završio osnovnu i srednju školu. 
@@ -24,7 +25,7 @@ Komunikativna sam osoba i spreman na timski rad.
 
 
 
-Lp
+Lp  
 Darko Pedić
 
 
