@@ -1,7 +1,8 @@
 # CV 
 
 
-![Profilna slika](img/E:\Darko\Hrast Zadar\SLIKE\DARKO.jpg)
+
+
 
 
 | Ime i prezime |     Adresa     | Poštanski broj | Mjesto |  Zemlja  |       E-mail       |
