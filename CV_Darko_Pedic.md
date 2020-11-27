@@ -43,17 +43,13 @@
 ##### RADNO ISKUSTVO 
 
 ``` 
-05/2018-danas   Liburnija Zadar [Liburnija](https://www.liburnija-zadar.hr/)
+05/2018-danas   Liburnija Zadar-KONTROLOR
 ``` 
 ``` 
-2003-2017       Aromatic Zadar-samoposlužni aparati za tople i hladne napitke
+2003-2017       Aromatic Zadar-samoposlužni aparati za tople i hladne napitke-SERVISER
 ``` 
 ``` 
-???             Kaufland, Zadar 
-``` 
-``` 
-                Multimedia Zadar
-``` 
+        
 ---
 ##### JEZIČNE VJEŠTINE
 
@@ -143,30 +139,30 @@ Strani jezici:
 ##### DRUŠTVENE I POLITIČKE AKTIVNOSTI
 
 ```
-2019-danas   Hrvatski suverenisti [Hrvatski suverenisti] (https://suverenisti.hr/)
+2019-danas   Hrvatski suverenisti [Hrvatski suverenisti] 
              - županijski povjernik
 ```
 ```
 2017-danas   Zadarska županija
-             - županijski vijećnik [Vijećnik Darko Pedić] (https://www.zadarska-zupanija.hr/images/vijecnici/darko-pedic.jpg)
+             - županijski vijećnik [Vijećnik Darko Pedić] 
 ```            
 ```
-2014-danas   Hrast-pokret za uspješnu Hrvatsku [Hrast](https://www.h-rast.hr/)
+2014-danas   Hrast-pokret za uspješnu Hrvatsku 
              - predsjednik županijske organizacije (Zadarska županija)
 ```
 ---
 ##### VOLONTIRANJE
 
 ```
-2018         Građanska inicijativa Istina o Istanbulskoj [logo](http://istinaoistanbulskoj.info/)
+2018         Građanska inicijativa Istina o Istanbulskoj 
              - koordinator za Zadarsku županiju
 ```
 ```
-2014         Građanska inicijativa UIO, Birajmo zastupnike imenom i prezimenom[UIO](https://uimeobitelji.net/)
+2014         Građanska inicijativa UIO, Birajmo zastupnike imenom i prezimenom
              - organizacijski tim Zadarske županije
 ```
 ```
-2013         Građanska inicijativa UIO, Referendum o ustavnoj definiciji braka u Hrvatskoj [UIO](https://uimeobitelji.net/)
+2013         Građanska inicijativa UIO, Referendum o ustavnoj definiciji braka u Hrvatskoj 
              - koordinator za Zadarsku županiju
 ```
 ```
@@ -175,7 +171,7 @@ Strani jezici:
              - volonter
 ```
 ```
-2006         Hrvatske svjetske igre, Zadar (2006) [HSI](https://www.youtube.com/watch?v=ZrFG-jVk8NQ&ab_channel=Hrvatskesvjetskeigre)
+2006         Hrvatske svjetske igre, Zadar (2006) 
              - volonter
 ```
 ```
