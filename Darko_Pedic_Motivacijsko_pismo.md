@@ -16,7 +16,6 @@ Na Pučkom otvorenom učilištu stekao sam računalnu diplomu (ECDL specijalist)
 U želji za daljnim usavršavanjem i stjecajem novih spoznaja upisao sam 1. godinu izvanrednog stručnog studija IT-a u Zadru.
 Ovim putem prijavljujem se na natječaj za 
  ###### Honorarni suradnik - Stručni suradnik (m/ž). [link](https://www.moj-posao.net/Posao/500906/Honorarni-suradnik-Strucni-suradnik-mz/)Honorarni suradnik - Stručni suradnik (m/ž).
-[link](https://www.moj-posao.net/Posao/500906/Honorarni-suradnik-Strucni-suradnik-mz/)
 
 Javljam se na natječaj jer želim upoznavati najnovijie tehnologije i opremu koju nudite kao i stalno stručno, profesionalno usavršavanje i razvoj.
 Komunikativna osoba i spreman na timski rad.
