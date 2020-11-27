@@ -1,7 +1,7 @@
 # CV 
 
 
-
+![Profilna slika](https://github.com/gadgadni/ATP2021/blob/main/img/profilna.jpg)
 
 
 
