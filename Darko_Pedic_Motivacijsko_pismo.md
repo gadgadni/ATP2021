@@ -18,8 +18,8 @@ Ovim putem prijavljujem se na natječaj za
  #### Honorarni suradnik - Stručni suradnik (m/ž). [link](https://www.moj-posao.net/Posao/500906/Honorarni-suradnik-Strucni-suradnik-mz/)
 
 Iskreno se nadam da ću dobiti priliku biti u vašem timu te na taj način upoznavati najnovije tehnologije i opremu
-koju nudite kao i stalno stručno, profesionalno usavršavanje i razvoj.
-Komunikativna osoba i spreman na timski rad.
+koju nudite kao i stalno stručno, profesionalno usavršavanje i razvoj.                                              
+Komunikativna sam osoba i spreman na timski rad.
 
 
 
