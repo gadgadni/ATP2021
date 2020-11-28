@@ -58,82 +58,22 @@ Hrvatski
 
 Strani jezici:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-4e34{background-color:#FFF;border-color:inherit;color:#24292E;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-q7lb{background-color:#FFF;border-color:inherit;color:#24292E;text-align:left;vertical-align:middle}
-.tg .tg-ql4m{background-color:#FFF;color:#24292E;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-4e34"><span style="font-weight:600">Engleski</span></th>
-    <th class="tg-4e34">Njemački</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-q7lb">Slušanje - C1</td>
-    <td class="tg-q7lb">Slušanje - C2</td>
-  </tr>
-  <tr>
-    <td class="tg-ql4m">Čitanje - C1</td>
-    <td class="tg-ql4m">Čitanje - C1</td>
-  </tr>
-  <tr>
-    <td class="tg-ql4m">Govorna interakcija - A1</td>
-    <td class="tg-ql4m">Govorna interakcija - A1</td>
-  </tr>
-  <tr>
-    <td class="tg-ql4m">Govorna produkcija - A1</td>
-    <td class="tg-ql4m">Govorna produkcija - A1</td>
-  </tr>
-  <tr>
-    <td class="tg-ql4m">Pisanje - A2</td>
-    <td class="tg-ql4m">Pisanje - A1</td>
-  </tr>
-</tbody>
-</table>
+|          Engleski          |          Njemački          |
+|:--------------------------:|:--------------------------:|
+| Slušanje- C1                  |                            |
+| Čitanje-   C1                |                            |
+| Govorna interakcija- A1      |                            |
+| Govorna produkcija- A1       |                            |
+| Pisanje-     A2              |                            |
 
 ---
 ##### DIGITALNE VJEŠTINE
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-4e34{background-color:#FFF;border-color:inherit;color:#24292E;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-q7lb{background-color:#FFF;border-color:inherit;color:#24292E;text-align:left;vertical-align:middle}
-.tg .tg-ql4m{background-color:#FFF;color:#24292E;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-4e34"><span style="font-weight:600">Naziv</span></th>
-    <th class="tg-4e34"><span style="font-weight:600">Vjestine</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-q7lb">Uredsko poslovanje</td>
-    <td class="tg-q7lb">Word, Excel, PowerPoint</td>
-  </tr>
-  <tr>
-    <td class="tg-ql4m">Osnove programskih jezika</td>
-    <td class="tg-ql4m">Python</td>
-  </tr>
-  <tr>
-    <td class="tg-ql4m">Sustavi za verzioniranje i suradnički rad</td>
-    <td class="tg-ql4m">Git, GitHub, Git Bash, Google Drive, PyCharm </td>
-  </tr>
-</tbody>
-</table>
+|                  Naziv                   |          Vještine         |
+|:----------------------------------------:|:-------------------------:|
+| Uredsko poslovanje                       | Word, Excel, PowePoint    |  
+| Osnove programskih jezika                | Python                    |                        
+| Sustavi za vizioniranje i suradnički rad | Git, GitHub, Google Drive |                       
 
 ---
 ##### DRUŠTVENE I POLITIČKE AKTIVNOSTI
@@ -187,49 +127,14 @@ Strani jezici:
 ---
 ##### VOZAČKA DOZVOLA
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-amwm">Motocikli</th>
-    <th class="tg-amwm">Automobili</th>
-    <th class="tg-amwm">Kamioni</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-baqh">AM</td>
-    <td class="tg-baqh">B1</td>
-    <td class="tg-baqh">C1</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">A1</td>
-    <td class="tg-baqh">B</td>
-    <td class="tg-baqh">/</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">A2</td>
-    <td class="tg-baqh">/</td>
-    <td class="tg-baqh">C</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">A</td>
-    <td class="tg-baqh">/</td>
-    <td class="tg-baqh">/</td>
-  </tr>
-</tbody>
-</table>
+| Motocikli | Automobili | Kamioni |
+|:---------:|:----------:|:-------:|
+|    AM     |     B1     |   C1    |
+|    A1     |     B      |   /     |
+|    A2     |     /      |   C     |
+|    A      |     /      |   /     |
 
 ---
-    
 
 
              
