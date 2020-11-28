@@ -113,7 +113,8 @@ Strani jezici:
              - koordinator za Zadarsku županiju
 ```
 ```
-2010         Hrvatske svjetske igre, Zadar 
+2010         Hrvatske svjetske igre, Zadar
+             - volonter 
 ```
 ```
 2010         Susret Hrvatske katoličke obitelji, Zadar 
