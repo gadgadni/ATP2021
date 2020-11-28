@@ -48,6 +48,12 @@
 ``` 
 2003-2017       Aromatic Zadar-samoposlužni aparati za tople i hladne napitke-SERVISER
 ``` 
+```
+2003            Kaufland, Zadar (Hrvatska)
+```
+```
+2001-2002       Gotham club Zadar
+```
 
 ---
 
@@ -58,13 +64,14 @@ Hrvatski
 
 Strani jezici:
 
-|          Engleski          |          Njemački          |
-|:--------------------------:|:--------------------------:|
-| Slušanje- C1                  |                            |
-| Čitanje-   C1                |                            |
-| Govorna interakcija- A1      |                            |
-| Govorna produkcija- A1       |                            |
-| Pisanje-     A2              |                            |
+|          Engleski         |          Njemački         |
+|:-------------------------:|:-------------------------:|
+|Slušanje- C1               |Slušanje- C2               |
+|Čitanje- C1                |Čitanje- C1                |
+|Govorna interakcija- A1    |Govorna interakcija- A1    |
+|Govorna produkcija- A1     |Govorna produkcija- A1     |
+|Pisanje- A2                |Pisanje- A1                |    
+  
 
 ---
 ##### DIGITALNE VJEŠTINE
@@ -121,8 +128,10 @@ Strani jezici:
 ---
 ##### ORGANIZACIJSKE VJEŠTINE
 
-    Sudjelovanjem u  referendumima te u političkom životu, rad sa pripadnicima drugih naroda, rasa i vjeroispovijsti
-    stekao sam izvrsne komunikacijske i timske vještine, te točnost u dogovaranju i ispunjavanju zadataka.
+    Sudjelovanjem u referendumima kao voditelj i volonter te u političkom životu kao predsjednik županijske 
+    organizacije i vijećnik u županijskoj skupštini, stekao sam izvrsne komunikacijske i timske vještine, te točnost 
+    u dogovaranju i ispunjavanju svih zadataka u zato dogovoreno vrijeme.
+    
 
 ---
 ##### VOZAČKA DOZVOLA
