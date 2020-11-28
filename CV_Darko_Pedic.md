@@ -114,7 +114,9 @@ Strani jezici:
 ```
 ```
 2010         Hrvatske svjetske igre, Zadar 
-             Susret Hrvatske katoličke obitelji, Zadar 
+```
+```
+2010         Susret Hrvatske katoličke obitelji, Zadar 
              - volonter
 ```
 ```
